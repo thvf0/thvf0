@@ -21,6 +21,6 @@
 1. `Discord: thvf#2827`
 
 
-## Latest Projects
+## My latest projects
 
-1.`MC-CHECKER.DE - Minecraft optimized hostchecker (🔴 OFFLINE)`
+1. `MC-CHECKER.DE - Minecraft optimized hostchecker (🔴 OFFLINE)`
