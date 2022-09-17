@@ -28,5 +28,8 @@
 
 1. `MC-CHECKER.DE - Minecraft optimized hostchecker (🔴 OFFLINE)`
 
- __Have a wonderful day :>__
+
+public static void main(String[] args) {
+  System.out.println("Have a wonderful day :>");  
+}
       
