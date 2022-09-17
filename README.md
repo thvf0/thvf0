@@ -1,4 +1,7 @@
-### Hi there 👋
+👋 Sebastian - 17
+👀 Hobby Java and Web Developer
+📈 Current Project -> https://mc-checker.de/
+📫 Discord -> pesoxyz#2827
 
 <!--
 **thvf0/thvf0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
