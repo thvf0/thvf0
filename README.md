@@ -11,13 +11,9 @@
 
 <img src="docs/light_screenshot.png" width="430" alt="Light theme screenshot"> <img src="docs/dark_screenshot.png" width="430" alt="Dark theme screenshot">
 
-## My Skills
 
-→ `Java - JavaScript`
-→ `HTML - CSS`
-→ `Learning Lua`
+## My Skills 😎
 
-If you need `./Rocket.toml`, the example file will be located at `./Rocket.example.toml`.
-
-1. `.docker/nginx/nginx.conf`
-2. `.docker/nginx/nginx.conf`
+1. `Java - JavaScript`
+2. `HTML & CSS`
+3. `Learning Lua`
