@@ -16,6 +16,6 @@
 1. `Lua`
 2. `C# - C++`
 
-## Where can u reach me?
+## Where can u reach me 🤷‍♂️
 
 1. `Discord: thvf#2827`
