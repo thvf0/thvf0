@@ -24,3 +24,5 @@
 ## My latest projects
 
 1. `MC-CHECKER.DE - Minecraft optimized hostchecker (🔴 OFFLINE)`
+
+__Have a wonderful day :>__
