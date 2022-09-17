@@ -1,6 +1,6 @@
 # About me
 
-*Hey, my name is Sebastian and i'am 17 Years old*
+*Hey, my name is Sebastian and i'am 17 years old*
 
 
 
@@ -19,3 +19,8 @@
 ## Where can u reach me 🤷‍♂️
 
 1. `Discord: thvf#2827`
+
+
+## Latest Projects
+
+1.`MC-CHECKER.DE - Minecraft optimized hostchecker (🔴 OFFLINE)`
