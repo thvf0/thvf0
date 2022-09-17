@@ -9,7 +9,7 @@
 ## My Skills 😎
 
 1. `Java - JavaScript`
-2. `HTML & CSS`
+2. `HTML & CSS (50%)`
 
 ## What i am learning 😐
 
