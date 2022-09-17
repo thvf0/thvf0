@@ -1,4 +1,6 @@
-# Hey, my name is Sebastian and i'am 17 Years old
+# About me
+
+*Hey, my name is Sebastian and i'am 17 Years old*
 
 
 
