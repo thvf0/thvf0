@@ -29,7 +29,6 @@
 1. `MC-CHECKER.DE - Minecraft optimized hostchecker (🔴 OFFLINE)`
 
 
-public static void main(String[] args) {
   1.`System.out.println("Have a wonderful day :>");`
-}
+
       
