@@ -16,3 +16,8 @@
 → `Java - JavaScript`
 → `HTML - CSS`
 → `Learning Lua`
+
+If you need `./Rocket.toml`, the example file will be located at `./Rocket.example.toml`.
+
+1. `.docker/nginx/nginx.conf`
+2. `.docker/nginx/nginx.conf`
