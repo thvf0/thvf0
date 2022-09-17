@@ -16,6 +16,6 @@
 1. `Lua`
 2. `C# - C++`
 
-## My recent Projects
+## Where can u reach me?
 
-1. `Kodama / VoLve -> Minecraft Exploit / Hack Client`
+1. `Discord: thvf#2827`
