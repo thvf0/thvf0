@@ -10,4 +10,12 @@
 
 1. `Java - JavaScript`
 2. `HTML & CSS`
-3. `Learning Lua`
+
+## What i am learning 😐
+
+1. `Lua`
+2. `C# - C++`
+
+## My recent Projects
+
+1. `Kodama / VoLve -> Minecraft Exploit / Hack Client`
